@@ -1,0 +1,6 @@
+# Dépendances supplémentaires pour exécuter le notebook d'analyse
+-r requirements.txt
+seaborn>=0.13
+prince>=0.13
+jupyterlab>=4.0
+ipykernel>=6.29

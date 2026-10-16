@@ -1,0 +1,14 @@
+# Application Streamlit + entraînement (python train.py)
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn==1.9.1
+matplotlib>=3.8
+joblib>=1.3
+plotly>=5.18
+streamlit>=1.50
+
+# IMPORTANT pour le déploiement : model_heart.pkl doit être relu avec la même version
+# de scikit-learn que celle qui l'a créé. Après `python train.py`, remplace la ligne
+# scikit-learn ci-dessus par la version exacte indiquée dans models/metrics.json
+# (ex. scikit-learn==1.8.0).

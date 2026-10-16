@@ -1,0 +1,17 @@
+{
+  "age": 0.5207027375622264,
+  "cigsPerDay": 0.12126890184271798,
+  "totChol": 0.027934919641166508,
+  "sysBP": 0.17357730754798162,
+  "diaBP": 0.03873737007015856,
+  "BMI": 0.0,
+  "heartRate": 0.03451679451089282,
+  "glucose": 0.04670912109420742,
+  "currentSmoker": 0.0,
+  "BPMeds": 0.0,
+  "prevalentHyp": 0.0,
+  "diabetes": 0.0,
+  "Gender_enc": 0.036552847730648694,
+  "prevalentStroke_enc": 0.0,
+  "education_enc": 0.0
+}
